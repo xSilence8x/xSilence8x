@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm dedicated self-taught programmer. 
+Technologies I use are:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xsilence8x&layout=compact)
+
